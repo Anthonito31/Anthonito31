@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-<h1 align="center">Hola, soy Anthonito Developer 👋</h1>
+<h1 align="center">Hello, I am Anthonito Developer 👋</h1>
 </div>
 ## Sobre mi
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <td width="50%">
 <h3 align="center">Mi primera Web</h3>
 <div align="center">
-<a href="https://github.com/Anthonito31/MiPrimeraWeb.git" target="_blank"><img src="imagenes/programmingWeb.jpg" width="400" alt="Mi primera Web"></a>
+<a href="https://github.com/Anthonito31/MiPrimeraWeb.git" target="_blank"><img src="https://github.com/Anthonito31/MiPrimeraWeb/blob/main/imagenes/programmingWeb.jpg" width="400" alt="Mi primera Web"></a>
 <p>
 <!-- <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
