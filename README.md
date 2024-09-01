@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hello, I am Anthonito Developer 👋</h1>
 </div>
 
-<img src="https://www.canva.com/design/DAGPeE1Z3wk/brfE15cCwndEqIZVtERvfg/edit?utm_content=DAGPeE1Z3wk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+<img src="https://www.canva.com/design/DAGPeE1Z3wk/brfE15cCwndEqIZVtERvfg/edit?referrer=banners-landing-page">
 
 ## Sobre mi
 
