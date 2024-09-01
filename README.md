@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 
 <div align="center">
 <h1 align="center">Hello, I am Anthonito Developer 👋</h1>
-</div>
 
 <img src="https://github.com/Anthonito31/MiPrimeraWeb/blob/main/imagenes/Welcome%20To%20Our%20Company.png">
-
+</div>
 ## Sobre mi
 
 - ⭐ Github Star ⭐ 
