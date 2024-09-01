@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hello, I am Anthonito Developer 👋</h1>
 </div>
 
-<img src="https://www.canva.com/design/DAGPeE1Z3wk/brfE15cCwndEqIZVtERvfg/edit?referrer=banners-landing-page">
+<img src="https://github.com/Anthonito31/MiPrimeraWeb/blob/main/imagenes/Welcome%20To%20Our%20Company.png">
 
 ## Sobre mi
 
