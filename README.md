@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 <div align="center">
 <h1 align="center">Hello, I am Anthonito Developer 👋</h1>
 </div>
+
+<img src="https://www.canva.com/design/DAGPeE1Z3wk/nkRHXyG-XoLmYNABtMEBMg/view?utm_content=DAGPeE1Z3wk&utm_campaign=designshare&utm_medium=link&utm_source=editor">
+
 ## Sobre mi
 
 - ⭐ Github Star ⭐ 
