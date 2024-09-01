@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   ## Proyectos *bombitas*
 <table>
 <tr>
-<td width="50%">
+<td width="45%">
 <h3 align="center">Mi primera Web</h3>
 <div align="center">
 <a href="https://github.com/Anthonito31/MiPrimeraWeb.git" target="_blank"><img src="https://github.com/Anthonito31/MiPrimeraWeb/blob/main/imagenes/programmingWeb.jpg" width="400" alt="Mi primera Web"></a>
@@ -46,8 +46,8 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://github.com/Anthonito31">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anthonito31&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anthonito31&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" width = "45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anthonito31&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width = "50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anthonito31&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
