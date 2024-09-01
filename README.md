@@ -27,14 +27,7 @@ Here are some ideas to get you started:
 - 👨‍💻 Web Developer
 
   
-### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/Anthonito31">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anthonito31&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anthonito31&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
   ## Proyectos *bombitas*
 <table>
@@ -43,19 +36,18 @@ Here are some ideas to get you started:
 <h3 align="center">Mi primera Web</h3>
 <div align="center">
 <a href="https://github.com/Anthonito31/MiPrimeraWeb.git" target="_blank"><img src="https://github.com/Anthonito31/MiPrimeraWeb/blob/main/imagenes/programmingWeb.jpg" width="400" alt="Mi primera Web"></a>
-<p>
-<!-- <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>-->
-<!-- <a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a> -->
-</p>
-<!-- <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p> -->
-
-</div> 
-                                                                                      
-</td>
+</td>  
+</table>                                                                                 
+</div>
 <br>
 
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/Anthonito31">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anthonito31&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anthonito31&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
