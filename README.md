@@ -26,6 +26,16 @@ Here are some ideas to get you started:
 - 📲 Mobile developer
 - 👨‍💻 Web Developer
 
+  
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/Anthonito31">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anthonito31&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anthonito31&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
   ## Proyectos *bombitas*
 <table>
 <tr>
@@ -48,11 +58,4 @@ Here are some ideas to get you started:
 </td>
 <br>
 
-### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/Anthonito31">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anthonito31&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anthonito31&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
