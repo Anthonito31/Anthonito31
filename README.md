@@ -32,15 +32,14 @@ Here are some ideas to get you started:
   ## Proyectos *bombitas*
 <table>
 <tr>
-<td width="45%">
+<!-- <td width="45%">
 <h3 align="center">Mi primera Web</h3>
 <div align="center">
 <a href="https://github.com/Anthonito31/MiPrimeraWeb.git" target="_blank"><img src="https://github.com/Anthonito31/MiPrimeraWeb/blob/main/imagenes/programmingWeb.jpg" width="400" alt="Mi primera Web"></a>
-</td>  
-  <td width="45%">
-<h3 align="center">PAMI</h3>
+</td>  -->
+  <td width="15%">
 <div align="center">
-<a href="https://github.com/Anthonito31/PamiApp" target="_blank"></a>
+<a href="https://github.com/Anthonito31/PamiApp.git" target="_blank"><h3 align="center">PAMI</h3></a>
 </td>  
 </table>                                                                                 
 </div>
