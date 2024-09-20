@@ -37,6 +37,11 @@ Here are some ideas to get you started:
 <div align="center">
 <a href="https://github.com/Anthonito31/MiPrimeraWeb.git" target="_blank"><img src="https://github.com/Anthonito31/MiPrimeraWeb/blob/main/imagenes/programmingWeb.jpg" width="400" alt="Mi primera Web"></a>
 </td>  
+  <td width="45%">
+<h3 align="center">PAMI</h3>
+<div align="center">
+<a href="https://github.com/Anthonito31/PamiApp" target="_blank"></a>
+</td>  
 </table>                                                                                 
 </div>
 <br>
