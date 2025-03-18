@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## Sobre mi
 
 - 📲 Mobile developer
-- 👨‍💻 Web Junior Developer
+- 👨‍💻 Junior Web Developer
 
 
 ### ⚙️ &nbsp;GitHub Analytics
